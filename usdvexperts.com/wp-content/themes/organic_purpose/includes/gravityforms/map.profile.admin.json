@@ -1,0 +1,156 @@
+{
+  "form_id":                10,
+  "user_id":                93,
+
+  "fields": {
+
+    "step_1": {
+      "married_status":      5,
+      "no_of_children":      7
+    },
+
+
+    "step_2": {
+      "first_name":          8,
+      "middle_name":        14,
+      "last_name":          15,
+      "birth_date":         16,
+      "dob": {
+        "id":               16,
+        "month":        "16.1",
+        "day":          "16.2",
+        "year":         "16.3"
+      },
+      "gender":             19,
+      "birth_city":         17,
+      "birth_country":      18,
+      "education_level":    20,
+      "occupation":         82,
+      "work_experience":    21,
+      "annual_income":      84,
+      "english_level":      23
+    },
+
+
+    "step_3": {
+      "first_name":          9,
+      "middle_name":        24,
+      "last_name":          25,
+      "birth_date":         26,
+      "dob": {
+        "id":               26,
+        "month":        "26.1",
+        "day":          "26.2",
+        "year":         "26.3"
+      },
+      "gender":             27,
+      "birth_city":         28,
+      "birth_country":      29,
+      "education_level":    32,
+      "occupation":         86,
+      "work_experience":    33,
+      "annual_income":      85,
+      "english_level":      35
+    },
+
+
+    "step_4": {
+      "first_name":         10,
+      "last_name":          37,
+      "birth_date":         38,
+      "dob": {
+        "id":               38,
+        "month":        "38.1",
+        "day":          "38.2",
+        "year":         "38.3"
+      },
+      "gender":             39,
+      "birth_city":         40,
+      "birth_country":      41
+    },
+
+
+    "step_5": {
+      "first_name":         11,
+      "middle_name":        42,
+      "last_name":          43,
+      "birth_date":         44,
+      "dob": {
+        "id":               44,
+        "month":        "44.1",
+        "day":          "44.2",
+        "year":         "44.3"
+      },
+      "gender":             45,
+      "birth_city":         46,
+      "birth_country":      47
+    },
+
+
+    "step_6": {
+      "first_name":         49,
+      "middle_name":        50,
+      "last_name":          51,
+      "birth_date":         52,
+      "dob": {
+        "id":               52,
+        "month":        "52.1",
+        "day":          "52.2",
+        "year":         "52.3"
+      },
+      "gender":             53,
+      "birth_city":         54,
+      "birth_country":      55
+    },
+
+
+    "step_7": {
+      "first_name":         57,
+      "middle_name":        58,
+      "last_name":          59,
+      "birth_date":         60,
+      "dob": {
+        "id":               60,
+        "month":        "60.1",
+        "day":          "60.2",
+        "year":         "60.3"
+      },
+      "gender":             61,
+      "birth_city":         62,
+      "birth_country":      63
+    },
+
+
+    "step_8": {
+      "first_name":         65,
+      "middle_name":        66,
+      "last_name":          67,
+      "birth_date":         68,
+      "dob": {
+        "id":               68,
+        "month":        "68.1",
+        "day":          "68.2",
+        "year":         "68.3"
+      },
+      "gender":             69,
+      "birth_city":         70,
+      "birth_country":      71
+    },
+
+
+    "step_9": {
+      "route":              73,
+      "street_number":      74,
+      "locality":           75,
+      "district":           76,
+      "postal_code":        77,
+      "country":            78,
+      "phone":              79,
+      "email":              80,
+      "country_of_residence": 81
+    }
+
+
+  }
+
+}

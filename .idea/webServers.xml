@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fa6661dc-2e13-4c6e-abf7-16192f9bba9a" name="usdvexperts.com" url="http://46.249.63.74">
+        <fileTransfer host="46.249.63.74" port="21" password="dfe1dfebdffedfeadf98df9adf9bdf9fdf8b" username="usdvexpert_web">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

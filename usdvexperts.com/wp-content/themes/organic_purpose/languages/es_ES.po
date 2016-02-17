@@ -1,0 +1,29 @@
+msgid "Home Page"
+msgstr "Página principal"
+
+msgid "My Application"
+msgstr "Mi aplicación"
+
+msgid "Personal Information"
+msgstr "Información personal"
+
+msgid "Change Password"
+msgstr "Cambiar la contraseña"
+
+msgid "Photos"
+msgstr "Fotos"
+
+msgid "Log Out"
+msgstr "Cerrar sesión"
+
+msgid "About Us"
+msgstr "Acerca de nosotros"
+
+msgid "Our Services"
+msgstr "Nuestros servicios"
+
+msgid "US DV Information"
+msgstr "EEUU Información DV"
+
+msgid "Welcome to US DV Card Application"
+msgstr "Bienvenido a US DV Solicitud de Tarjeta"

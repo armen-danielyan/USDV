@@ -1,0 +1,476 @@
+{
+  "form_id": 1,
+
+  "fields": {
+
+
+    "step_1": {
+      "married_status": 5,
+      "no_of_children": 7
+    },
+
+
+    "step_2": {
+      "required": {
+        "first_name": 8,
+        "last_name": 15,
+        "birth_date": 16,
+        "gender": 19,
+        "birth_city": 17,
+        "birth_country": 18,
+        "education_level": 20,
+        "occupation": 82,
+        "work_experience": 21
+      },
+      "first_name": 8,
+      "middle_name": 14,
+      "last_name": 15,
+      "birth_date": 16,
+      "dob": {
+        "id": 16,
+        "month": "16.1",
+        "day": "16.2",
+        "year": "16.3"
+      },
+      "gender": 19,
+      "birth_city": 17,
+      "birth_country": 18,
+      "education_level": 20,
+      "occupation": 82,
+      "work_experience": 21,
+      "annual_income": 84,
+      "english_level": 23
+    },
+
+
+    "step_3": {
+      "required": {
+        "first_name": 9,
+        "last_name": 25,
+        "birth_date": 26,
+        "gender": 27,
+        "birth_city": 28,
+        "birth_country": 29,
+        "education_level": 32
+      },
+      "first_name": 9,
+      "middle_name": 24,
+      "last_name": 25,
+      "birth_date": 26,
+      "dob": {
+        "id": 26,
+        "month": "26.1",
+        "day": "26.2",
+        "year": "26.3"
+      },
+      "gender": 27,
+      "birth_city": 28,
+      "birth_country": 29,
+      "education_level": 32,
+      "occupation": 86,
+      "work_experience": 33,
+      "annual_income": 85,
+      "english_level": 35
+    },
+
+
+    "step_4": {
+      "required": {
+        "first_name": 10,
+        "last_name": 37,
+        "birth_date": 38,
+        "gender": 39,
+        "birth_city": 40,
+        "birth_country": 41
+      },
+      "first_name": 10,
+      "last_name": 37,
+      "birth_date": 38,
+      "dob": {
+        "id": 38,
+        "month": "38.1",
+        "day": "38.2",
+        "year": "38.3"
+      },
+      "gender": 39,
+      "birth_city": 40,
+      "birth_country": 41
+    },
+
+
+    "step_5": {
+      "required": {
+        "first_name": 11,
+        "last_name": 43,
+        "birth_date": 44,
+        "gender": 45,
+        "birth_city": 46,
+        "birth_country": 47
+      },
+      "first_name": 11,
+      "middle_name": 42,
+      "last_name": 43,
+      "birth_date": 44,
+      "dob": {
+        "id": 44,
+        "month": "44.1",
+        "day": "44.2",
+        "year": "44.3"
+      },
+      "gender": 45,
+      "birth_city": 46,
+      "birth_country": 47
+    },
+
+
+    "step_6": {
+      "required": {
+        "first_name": 49,
+        "last_name": 51,
+        "birth_date": 52,
+        "gender": 53,
+        "birth_city": 54,
+        "birth_country": 55
+      },
+      "first_name": 49,
+      "middle_name": 50,
+      "last_name": 51,
+      "birth_date": 52,
+      "dob": {
+        "id": 52,
+        "month": "52.1",
+        "day": "52.2",
+        "year": "52.3"
+      },
+      "gender": 53,
+      "birth_city": 54,
+      "birth_country": 55
+    },
+
+
+    "step_7": {
+      "required": {
+        "first_name": 57,
+        "last_name": 59,
+        "birth_date": 60,
+        "gender": 61,
+        "birth_city": 62,
+        "birth_country": 63
+      },
+      "first_name": 57,
+      "middle_name": 58,
+      "last_name": 59,
+      "birth_date": 60,
+      "dob": {
+        "id": 60,
+        "month": "60.1",
+        "day": "60.2",
+        "year": "60.3"
+      },
+      "gender": 61,
+      "birth_city": 62,
+      "birth_country": 63
+    },
+
+
+    "step_8": {
+      "required": {
+        "first_name": 65,
+        "last_name": 67,
+        "birth_date": 68,
+        "gender": 69,
+        "birth_city": 70,
+        "birth_country": 71
+      },
+      "first_name": 65,
+      "middle_name": 66,
+      "last_name": 67,
+      "birth_date": 68,
+      "dob": {
+        "id": 68,
+        "month": "68.1",
+        "day": "68.2",
+        "year": "68.3"
+      },
+      "gender": 69,
+      "birth_city": 70,
+      "birth_country": 71
+    },
+
+
+    "step_9": {
+      "required": {
+        "first_name":           89,
+        "last_name":            91,
+        "birth_date":           68,
+        "gender":               69,
+        "birth_city":           70,
+        "birth_country":        71
+      },
+      "first_name":             89,
+      "middle_name":            90,
+      "last_name":              91,
+      "birth_date":             92,
+      "dob": {
+        "id":                   92,
+        "month":            "92.1",
+        "day":              "92.2",
+        "year":             "92.3"
+      },
+      "gender":                 93,
+      "birth_city":             95,
+      "birth_country":          94
+    },
+
+
+    "step_10": {
+      "required": {
+        "first_name":           97,
+        "last_name":            98,
+        "birth_date":           99,
+        "gender":              101,
+        "birth_city":          102,
+        "birth_country":       103
+      },
+      "first_name":             97,
+      "middle_name":            98,
+      "last_name":              99,
+      "birth_date":            100,
+      "dob": {
+        "id":                  100,
+        "month":           "100.1",
+        "day":             "100.2",
+        "year":            "100.3"
+      },
+      "gender":                101,
+      "birth_city":            102,
+      "birth_country":         103
+    },
+
+
+    "step_11": {
+      "required": {
+        "first_name":          105,
+        "last_name":           107,
+        "birth_date":          108,
+        "gender":               69,
+        "birth_city":           70,
+        "birth_country":        71
+      },
+      "first_name":            105,
+      "middle_name":           106,
+      "last_name":             107,
+      "birth_date":            108,
+      "dob": {
+        "id":                  108,
+        "month":           "108.1",
+        "day":             "108.2",
+        "year":            "108.3"
+      },
+      "gender":                109,
+      "birth_city":            110,
+      "birth_country":         111
+    },
+
+
+    "step_12": {
+      "required": {
+        "first_name":          113,
+        "last_name":           115,
+        "birth_date":          116,
+        "gender":              117,
+        "birth_city":          118,
+        "birth_country":       119
+      },
+      "first_name":            113,
+      "middle_name":           114,
+      "last_name":             115,
+      "birth_date":            116,
+      "dob": {
+        "id":                  116,
+        "month":           "116.1",
+        "day":             "116.2",
+        "year":            "116.3"
+      },
+      "gender":                117,
+      "birth_city":            118,
+      "birth_country":         119
+    },
+
+
+    "step_13": {
+      "required": {
+        "first_name":          121,
+        "last_name":           123,
+        "birth_date":          124,
+        "gender":              125,
+        "birth_city":          126,
+        "birth_country":       127
+      },
+      "first_name":            121,
+      "middle_name":           122,
+      "last_name":             123,
+      "birth_date":            124,
+      "dob": {
+        "id":                  124,
+        "month":           "124.1",
+        "day":             "124.2",
+        "year":            "124.3"
+      },
+      "gender":                125,
+      "birth_city":            126,
+      "birth_country":         127
+    },
+
+
+    "step_14": {
+      "required": {
+        "first_name":          129,
+        "last_name":           131,
+        "birth_date":          132,
+        "gender":              133,
+        "birth_city":          134,
+        "birth_country":       135
+      },
+      "first_name":            129,
+      "middle_name":           130,
+      "last_name":             131,
+      "birth_date":            132,
+      "dob": {
+        "id":                  132,
+        "month":           "132.1",
+        "day":             "132.2",
+        "year":            "132.3"
+      },
+      "gender":                133,
+      "birth_city":            134,
+      "birth_country":         135
+    },
+
+
+    "step_15": {
+      "required": {
+        "first_name":          137,
+        "last_name":           139,
+        "birth_date":          140,
+        "gender":              141,
+        "birth_city":          142,
+        "birth_country":       143
+      },
+      "first_name":            137,
+      "middle_name":           138,
+      "last_name":             139,
+      "birth_date":            140,
+      "dob": {
+        "id":                  140,
+        "month":           "140.1",
+        "day":             "140.2",
+        "year":            "140.3"
+      },
+      "gender":                141,
+      "birth_city":            142,
+      "birth_country":         143
+    },
+
+
+    "step_16": {
+      "required": {
+        "first_name":          145,
+        "last_name":           147,
+        "birth_date":          148,
+        "gender":              149,
+        "birth_city":          150,
+        "birth_country":       151
+      },
+      "first_name":            145,
+      "middle_name":           146,
+      "last_name":             147,
+      "birth_date":            148,
+      "dob": {
+        "id":                  148,
+        "month":           "148.1",
+        "day":             "148.2",
+        "year":            "148.3"
+      },
+      "gender":                149,
+      "birth_city":            150,
+      "birth_country":         151
+    },
+
+
+    "step_17": {
+      "required": {
+        "first_name":          153,
+        "last_name":           155,
+        "birth_date":          156,
+        "gender":              157,
+        "birth_city":          158,
+        "birth_country":       159
+      },
+      "first_name":            153,
+      "middle_name":           154,
+      "last_name":             155,
+      "birth_date":            156,
+      "dob": {
+        "id":                  156,
+        "month":           "156.1",
+        "day":             "156.2",
+        "year":            "156.3"
+      },
+      "gender":                157,
+      "birth_city":            158,
+      "birth_country":         159
+    },
+
+
+    "step_18": {
+      "required": {
+        "first_name":          161,
+        "last_name":           163,
+        "birth_date":          164,
+        "gender":              165,
+        "birth_city":          166,
+        "birth_country":       167
+      },
+      "first_name":            161,
+      "middle_name":           162,
+      "last_name":             163,
+      "birth_date":            164,
+      "dob": {
+        "id":                  164,
+        "month":           "164.1",
+        "day":             "164.2",
+        "year":            "164.3"
+      },
+      "gender":                165,
+      "birth_city":            166,
+      "birth_country":         167
+    },
+
+
+    "step_19": {
+      "required": {
+        "route": 73,
+        "locality": 75,
+        "district": 76,
+        "country": 78,
+        "phone": 79,
+        "email": 80,
+        "country_of_residence": 81
+      },
+      "route": 73,
+      "street_number": 74,
+      "locality": 75,
+      "district": 76,
+      "postal_code": 77,
+      "country": 78,
+      "phone": 79,
+      "email": 80,
+      "country_of_residence": 81,
+      "eligibility": 87
+    }
+
+
+  }
+
+}

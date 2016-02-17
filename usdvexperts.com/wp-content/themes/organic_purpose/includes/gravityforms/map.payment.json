@@ -1,0 +1,13 @@
+{
+  "form_id":             14,
+  "fields": {
+    "marital_status":     9,
+    "product":            8,
+    "price_single_1":    10,
+    "price_family_1":    11,
+    "price_single_2":    12,
+    "price_family_2":    13,
+    "total":              2,
+    "payment_status":    14
+  }
+}

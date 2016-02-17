@@ -1,0 +1,29 @@
+﻿msgid "Home Page"
+msgstr "الصفحة الرئيسية"
+
+msgid "My Application"
+msgstr "طلبي"
+
+msgid "Personal Information"
+msgstr "معلومات شخصية"
+
+msgid "Change Password"
+msgstr "تغيير كلمة المرور"
+
+msgid "Photos"
+msgstr "الصور"
+
+msgid "Log Out"
+msgstr "تسجيل خروج"
+
+msgid "About Us"
+msgstr "معلومات عنا"
+
+msgid "Our Services"
+msgstr "خدماتنا"
+
+msgid "US DV Information"
+msgstr "الولايات المتحدة DV معلومات"
+
+msgid "Welcome to US DV Card Application"
+msgstr "مرحبا بكم في الولايات المتحدة DV طلب بطاقة"
